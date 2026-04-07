@@ -1,2 +1,0 @@
-# imbank-kyc-portal
-KYC
